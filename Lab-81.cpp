@@ -78,7 +78,7 @@ for(short i=0;i<count-1;i++)
             CDV[j] = tmp;
             string tmp2 = words[i];
             words[i] = words[j];
-            words[j] = tmp;*/
+            words[j] = tmp2;*/
         }
 }
 
